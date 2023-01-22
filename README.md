@@ -39,6 +39,8 @@ Run terminal:
 
 It means to run a emulated server on your local computer. So, after running it, you can go to localhost:8000 or 127.0. 0.1:8000. Requirements: You must run this in the ROOT of your django project where manage.py lives.
 
+Go to /home page
+
 ### Data
 
 db.sqlite3  database file where all the data that you will be generating will be stored. It is a local file as Django is a server-side framework and it treats your computer as the host when you actually run the server in command line/terminal.
